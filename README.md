@@ -45,40 +45,37 @@
 
 </div>
 
-
-
 <div data-importer="socials" align="center">
 
   <a href="https://www.linkedin.com/in/andre-forastieri-a029913b1" target="_blank">
     <img
-      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
+      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge"
       height="25"
       alt="LinkedIn"/>
   </a>
 
   <a href="https://discord.com/channels/@me" target="_blank">
     <img
-      src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge"
+      src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge"
       height="25"
       alt="Discord"/>
   </a>
 
   <a href="https://www.instagram.com/deforastierii/" target="_blank">
     <img
-      src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge"
+      src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge"
       height="25"
       alt="Instagram"/>
   </a>
 
   <a href="mailto:andreluizramosforastieri32@gmail.com">
     <img
-      src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"
+      src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge"
       height="25"
       alt="Gmail"/>
   </a>
 
 </div>
-
 
 <div data-importer="stats" align="center">
 
@@ -87,15 +84,12 @@
     height="150"
     alt="streak graph"/>
 
- <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img
-    src="https://github-profile-trophy-fork-two.vercel.app/?username=AndreL050690&theme=dracula&row=1&column=8&margin-w=8&margin-h=8"
+    src="https://raw.githubusercontent.com/AndreL050690/AndreL050690/main/trophy.svg"
     height="150"
     alt="GitHub trophy graph"/>
-</a>
 
 </div>
-
 
 <div data-importer="pacman" align="center">
 
@@ -104,4 +98,3 @@
     alt="Pac-Man contribution graph"/>
 
 </div>
-

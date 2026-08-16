@@ -88,11 +88,11 @@
     alt="streak graph"/>
 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=AndreL050690&theme=dracula&row=1&column=8&margin-w=8&margin-h=8"
-      height="150"
-      alt="GitHub trophy graph"/>
-  </a>
+  <img
+    src="https://github-profile-trophy-liard-delta.vercel.app/?username=AndreL050690&theme=dracula&row=1&column=8&margin-w=8&margin-h=8"
+    height="150"
+    alt="GitHub trophy graph"/>
+</a>
 
 </div>
 

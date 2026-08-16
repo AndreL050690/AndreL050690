@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hello World! I'm Andre Luiz, nice to meet you! 👋
+  Hello World! I'm Andre Luiz
 </h1>
 
 <p align="center">
@@ -7,7 +7,6 @@
   <br>
   💻 Desenvolvedor em formação
   <br>
-  🚀 Buscando oportunidades de estágio em Tecnologia
 </p>
 
 ---
@@ -133,7 +132,7 @@ HTML • CSS • JavaScript
 </p>
 
 <p>
-🔗 <strong>GitHub:</strong> Em breve
+🔗 <strong>GitHub:</strong> CHALLENGMOVEUP/CHALLENGE
 </p>
 
 <br>
@@ -198,9 +197,7 @@ HTML • CSS • JavaScript
 
 <br>
 
----
 
-<h2 align="center">👾 My Contributions</h2>
 
 <div align="center">
 
@@ -213,8 +210,6 @@ HTML • CSS • JavaScript
 
 <br>
 
----
 
-<p align="center">
-  <i>"Always learning, building and improving."</i> 🚀
-</p>
+
+

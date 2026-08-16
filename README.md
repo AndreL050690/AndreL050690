@@ -1,100 +1,220 @@
-<h1 data-importer="text" align="center">Hello World! I'm Andre Luiz, nice to meet you!</h1>
+<h1 align="center">
+  Hello World! I'm Andre Luiz, nice to meet you! 👋
+</h1>
 
-<div data-importer="techs" align="center">
+<p align="center">
+  🎓 Estudante de Análise e Desenvolvimento de Sistemas na FIAP
+  <br>
+  💻 Desenvolvedor em formação
+  <br>
+  🚀 Buscando oportunidades de estágio em Tecnologia
+</p>
 
-  <img src="https://skillicons.dev/icons?i=ts" width="60" height="60" alt="TypeScript" />
-  <img width="12" />
+---
 
-  <img src="https://skillicons.dev/icons?i=nextjs" width="60" height="60" alt="Next.js" />
-  <img width="12" />
+<h2 align="center">🛠️ Tecnologias</h2>
 
-  <img src="https://skillicons.dev/icons?i=py" width="60" height="60" alt="Python" />
-  <img width="12" />
+<div align="center">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" alt="CSS3" />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" width="55" height="55" alt="TypeScript" />
+  <img width="10" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" alt="GitHub" />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" width="55" height="55" alt="Next.js" />
+  <img width="10" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" alt="Git" />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" width="55" height="55" alt="Python" />
+  <img width="10" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" alt="HTML5" />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" width="55" height="55" alt="HTML5" />
+  <img width="10" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" alt="Java" />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" width="55" height="55" alt="CSS3" />
+  <img width="10" />
 
-  <img src="https://skillicons.dev/icons?i=js" width="60" height="60" alt="JavaScript" />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" width="55" height="55" alt="JavaScript" />
+  <img width="10" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60" height="60" alt="LinkedIn" />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" alt="Node.js" />
+  <img width="10" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" alt="Node.js" />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" width="55" height="55" alt="Git" />
+  <img width="10" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="60" height="60" alt="npm" />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" width="55" height="55" alt="GitHub" />
+  <img width="10" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="60" height="60" alt="Photoshop" />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=npm" width="55" height="55" alt="NPM" />
+  <img width="10" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" alt="VS Code" />
+  <img width="10" />
+
+  <img src="https://skillicons.dev/icons?i=ps" width="55" height="55" alt="Photoshop" />
 
 </div>
 
-<div data-importer="socials" align="center">
+<br>
+
+---
+
+<h2 align="center">🔗 Entre em contato</h2>
+
+<div align="center">
 
   <a href="https://www.linkedin.com/in/andre-forastieri-a029913b1" target="_blank">
     <img
       src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge"
-      height="25"
-      alt="LinkedIn"/>
+      height="28"
+      alt="LinkedIn"
+    />
   </a>
 
   <a href="https://discord.com/channels/@me" target="_blank">
     <img
       src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge"
-      height="25"
-      alt="Discord"/>
+      height="28"
+      alt="Discord"
+    />
   </a>
 
   <a href="https://www.instagram.com/deforastierii/" target="_blank">
     <img
       src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge"
-      height="25"
-      alt="Instagram"/>
+      height="28"
+      alt="Instagram"
+    />
   </a>
 
   <a href="mailto:andreluizramosforastieri32@gmail.com">
     <img
       src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge"
-      height="25"
-      alt="Gmail"/>
+      height="28"
+      alt="Gmail"
+    />
   </a>
 
 </div>
 
-<div data-importer="stats" align="center">
+<br>
+
+---
+
+<h2 align="center">🚀 Projetos em Destaque</h2>
+
+<h3>🌱 Move UP — Mobilidade Urbana e Sustentabilidade</h3>
+
+<p>
+Projeto desenvolvido para o <strong>Sprint Challenge da FIAP</strong>,
+utilizando <strong>HTML, CSS e JavaScript</strong>.
+</p>
+
+<p>
+O Move UP busca incentivar o uso de meios de transporte sustentáveis
+por meio da <strong>gamificação</strong>, conectando ações realizadas
+no ambiente digital a benefícios reais para a população.
+</p>
+
+<p>
+<strong>✨ Principais funcionalidades:</strong>
+</p>
+
+<ul>
+  <li>🎮 Sistema de gamificação com missões e recompensas</li>
+  <li>💳 Carteira digital para acompanhamento de pontos</li>
+  <li>🚌 Conversão de pontos em benefícios para transporte público</li>
+  <li>🌱 Estimativa de redução de emissão de CO₂</li>
+  <li>🔐 Recursos de segurança e prevenção contra fraudes</li>
+  <li>♿ Foco em acessibilidade e inclusão social</li>
+</ul>
+
+<p>
+<strong>🛠️ Tecnologias:</strong>
+HTML • CSS • JavaScript
+</p>
+
+<p>
+🔗 <strong>GitHub:</strong> Em breve
+</p>
+
+<br>
+
+<h3>🛰️ OrbitSafe — Comunicação em Emergências</h3>
+
+<p>
+Plataforma front-end desenvolvida para auxiliar regiões afetadas por
+<strong>enchentes, queimadas, deslizamentos e tempestades</strong>,
+utilizando comunicação via satélites de órbita baixa como alternativa
+quando a infraestrutura terrestre de telecomunicações está indisponível.
+</p>
+
+<p>
+<strong>✨ Principais funcionalidades:</strong>
+</p>
+
+<ul>
+  <li>📡 Central de monitoramento com telemetria e posicionamento de satélites</li>
+  <li>📊 Dashboard de resiliência e visualização de dados orbitais</li>
+  <li>🆘 Sistema SOS para envio de coordenadas e solicitações de emergência</li>
+  <li>❓ FAQ para orientação de equipes em campo</li>
+  <li>⚡ Interações e validações utilizando JavaScript</li>
+</ul>
+
+<p>
+<strong>🛠️ Tecnologias:</strong>
+HTML • CSS • JavaScript
+</p>
+
+<p>
+🔗 <strong>GitHub:</strong> Em breve
+</p>
+
+<br>
+
+---
+
+<h2 align="center">📚 Formação</h2>
+
+<p align="center">
+  <strong>Análise e Desenvolvimento de Sistemas</strong><br>
+  FIAP — Cursando<br>
+  Previsão de conclusão: Dezembro de 2027
+</p>
+
+<br>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
 
   <img
-    src="https://streak-stats.demolab.com?user=AndreL050690&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3"
+    src="https://streak-stats.demolab.com?user=AndreL050690&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5"
     height="150"
-    alt="streak graph"/>
-
-  <img
-    src="https://raw.githubusercontent.com/AndreL050690/AndreL050690/main/trophy.svg"
-    height="150"
-    alt="GitHub trophy graph"/>
+    alt="GitHub Streak"
+  />
 
 </div>
 
-<div data-importer="pacman" align="center">
+<br>
+
+---
+
+<h2 align="center">👾 My Contributions</h2>
+
+<div align="center">
 
   <img
     src="https://raw.githubusercontent.com/AndreL050690/AndreL050690/pacman-output/pacman-contribution-graph-dark.svg?game=pacman"
-    alt="Pac-Man contribution graph"/>
+    alt="Pac-Man contribution graph"
+  />
 
 </div>
+
+<br>
+
+---
+
+<p align="center">
+  <i>"Always learning, building and improving."</i> 🚀
+</p>

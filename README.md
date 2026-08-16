@@ -1,8 +1,8 @@
 <h1 data-importer="text" align="center">Hello World! I'm Andre Luiz, nice to meet you!</h1>
 
-###
 
 <div data-importer="techs" align="center">
+
   <img src="https://skillicons.dev/icons?i=ts" width="60" height="60" alt="TypeScript" />
   <img width="12" />
 
@@ -21,7 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" alt="Git" />
   <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" alt="HTML5"/>
   <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" alt="Java" />
@@ -46,8 +46,10 @@
 
 </div>
 
-###
-<div data-importer="socials" align="center"
+
+
+<div data-importer="socials" align="center">
+
   <a href="https://www.linkedin.com/in/andre-forastieri-a029913b1" target="_blank">
     <img
       src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
@@ -61,13 +63,13 @@
       height="25"
       alt="Discord"/>
   </a>
+
   <a href="https://www.instagram.com/deforastierii/" target="_blank">
     <img
       src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge"
       height="25"
-      alt="Instagram" />
+      alt="Instagram"/>
   </a>
-
   <a href="mailto:andreluizramosforastieri32@gmail.com">
     <img
       src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"
@@ -76,30 +78,34 @@
   </a>
 </div>
 
-###
+
+
 <div data-importer="stats" align="center">
 <img
  src="https://streak-stats.demolab.com?user=AndreL050690&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3"
  height="150"
  alt="streak graph"/>
-
 <img
- src="https://raw.githubusercontent.com/AndreL050690/AndreL050690/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4"
+ src="https://github-profile-trophy.vercel.app/?username=AndreL050690&theme=dracula&row=1&column=8&margin-w=8&margin-h=8"
  height="150"
- alt="trophy graph"/>
-
+ alt="GitHub trophy graph"/>
 </div>
-###
-<picture data-importer="pacman">
 
+<div data-importer="pacman" align="center">
+  <picture>
+```
 <source
-media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/AndreL050690/AndreL050690/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  media="(prefers-color-scheme: dark)"
+  srcset="https://raw.githubusercontent.com/AndreL050690/AndreL050690/pacman-output/pacman-contribution-graph-dark.svg?game=pacman"/>
 <source
-media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/AndreL050690/AndreL050690/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  media="(prefers-color-scheme: light)"
+  srcset="https://raw.githubusercontent.com/AndreL050690/AndreL050690/pacman-output/pacman-contribution-graph.svg?game=pacman"/>
+
 <img
-alt="pacman contribution graph"
-src="https://raw.githubusercontent.com/AndreL050690/AndreL050690/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-###
+  alt="Pac-Man contribution graph"
+  src="https://raw.githubusercontent.com/AndreL050690/AndreL050690/pacman-output/pacman-contribution-graph.svg?game=pacman"/>
+```
+  </picture>
+</div>
+
+
